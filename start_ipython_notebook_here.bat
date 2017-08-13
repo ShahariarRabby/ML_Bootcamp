@@ -1,4 +1,4 @@
-rem -- start_ipython_notebook_here.bat ---
+rem -- start_jupyter_notebook_here.bat ---
 dir
-ipython notebook
+jupyter notebook
 pause
